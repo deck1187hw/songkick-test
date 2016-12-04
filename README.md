@@ -1,3 +1,6 @@
+![alt tag](http://miguelpuig.com/dev/songkick/songkick.png)
+
+
 # Sonkick Test
 
 ## Synopsis
