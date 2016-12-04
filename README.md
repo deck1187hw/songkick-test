@@ -18,6 +18,8 @@ Write software that scrapes concert information from the pages on this site and 
 
 1. Unzip the whole file into your root apache directory in a new folder named songkick
 2. Visit http://localhost/songkick/index.php/events/getAllEvents/?places=1
+3. Main code is on the Events controller application/controllers/Events.php
+4. The main method is getAllEvents() and accepts different parameters (see examples below)
 
 
 ## Examples
